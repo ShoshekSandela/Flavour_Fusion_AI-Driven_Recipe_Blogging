@@ -47,7 +47,7 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 ```bash
- git clone https://github.com/chavapardhakalyan/Flavour-Fusion-AI-Driven-Recipe-Blogging.git
+ git clone https://github.com/ShoshekSandela/Flavour-Fusion-AI-Driven-Recipe-Blogging.git
  cd Flavour-Fusion-AI-Driven-Recipe-Blogging
 ```
 
